@@ -6,4 +6,6 @@ body {
 
 p {
     color: rgb(66, 66, 66);
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
